@@ -1,0 +1,21 @@
+# Compiled objects
+*.o
+*.obj
+
+# Executable
+trabalho-edii
+trabalho-edii.exe
+
+# Results (generated)
+resultados_*.csv
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+benchmark/agm/grafo-grande.txt
+benchmark/caminho-minimo/largeEWD.txt
