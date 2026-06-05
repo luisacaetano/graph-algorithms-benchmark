@@ -92,3 +92,4 @@ O programa gera arquivos CSV com os resultados do benchmark:
 ## Licença
 
 Uso acadêmico.
+
